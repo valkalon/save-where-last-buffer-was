@@ -7,7 +7,7 @@ This behavior is similar to the one used by Sublime Text.
 
 This package overloads only your "ctrl-s" shortcut.
 
-**Native atom behavior**
+**Native Atom behavior**
 
 saving a new file opens the window from the root directory of the project
 
