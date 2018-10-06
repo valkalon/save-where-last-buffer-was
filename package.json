@@ -1,10 +1,9 @@
 {
   "name": "save-where-last-buffer-was",
   "main": "./lib/save-where-last-buffer-was",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save new files in the directory of the last active file",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "save-where-last-buffer-was:save"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
