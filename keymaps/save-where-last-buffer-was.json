@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-s": "save-where-last-buffer-was:save"
+  }
+}

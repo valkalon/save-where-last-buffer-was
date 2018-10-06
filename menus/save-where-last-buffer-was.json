@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle save-where-last-buffer-was",
+        "command": "save-where-last-buffer-was:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Save where last buffer was",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "save-where-last-buffer-was:toggle"
+            },
+            {
+              "label": "Save",
+              "command": "save-where-last-buffer-was:save"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
