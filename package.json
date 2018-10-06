@@ -1,7 +1,7 @@
 {
   "name": "save-where-last-buffer-was",
   "main": "./lib/save-where-last-buffer-was",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Save new files in the directory of the last active file",
   "keywords": [],
   "activationCommands": {
