@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "save-where-last-buffer-was:save"
   },
-  "repository": "https://github.com/atom/save-where-last-buffer-was",
+  "repository": "https://github.com/valkalon/save-where-last-buffer-was",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
