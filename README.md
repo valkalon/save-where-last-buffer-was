@@ -23,3 +23,7 @@ saving a new file puts you in the folder of the previous opened file
 # Contributions
 
 If you feel the package could be improved or have a question feel free to open an issue.
+
+Happy Atom coding!
+
+@Valkalon
