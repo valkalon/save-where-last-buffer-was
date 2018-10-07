@@ -20,6 +20,10 @@ saving a new file puts you in the folder of the previous opened file
 
 ![with package](https://raw.githubusercontent.com/valkalon/save-where-last-buffer-was/master/_images/atom_saves_inside_the_dir_with_plugin.gif)
 
+# Known issues
+
+Saving closes all folder hierarchy in the directory tree
+
 # Contributions
 
 If you feel the package could be improved or have a question feel free to open an issue.
